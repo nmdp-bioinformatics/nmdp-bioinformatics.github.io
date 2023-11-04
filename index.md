@@ -7,7 +7,7 @@ Below are a selection of tools developed by members of the NMDP Bioinformatics R
 ## Source Selection Tools
 
 ### 1. Search Prognosis
-![Image](assets/screenshots/search-prognosis.png)
+![Image](assets/screenshots/Search-prognosis.png)
 This application enables the ability to assess the efficiency of a search prior to beginning the search process.  It uses the patient's genotype frequency to determine a prognosis returned as Good, Fair. or Poor. 
 
 Resources:
