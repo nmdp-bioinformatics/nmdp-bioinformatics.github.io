@@ -18,7 +18,7 @@ Resources:
 
 ### 2. Haploidentical Donor Selector
 ![Image](assets/screenshots/haploidentical-donor-selector.png)
-This tool predicts the probability of disease-free survival from attributes of a hematopoietic stem cell transplant donor-recipient pair based on research findings (accessible via the QR code to the right).  This retrospective study of 1434 patients uses a Cox proportional hazards model to better understand the effects of HLA locus-specific risks following haploidentical transplantation using PTCy.
+This tool predicts the probability of disease-free survival from attributes of a hematopoietic stem cell transplant donor-recipient pair based on research findings.  This retrospective study of 1434 patients uses a Cox proportional hazards model to better understand the effects of HLA locus-specific risks following haploidentical transplantation using PTCy.
 
 
 Resources:
