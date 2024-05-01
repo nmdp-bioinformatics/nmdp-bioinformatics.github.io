@@ -107,7 +107,9 @@ Resources:
 
 ### 10. py-ard
 ![Image](assets/screenshots/py-ard.png)
-A web application that provides services for classifying the leader peptides (either M or T at position -21) and matching statuses of HLA-B alleles and ranks them based on transplant outcome measures.
+**Swiss army knife of HLA Nomenclature**
+
+`py-ard` is a suite of tools, a web service and a Python library that undertands the panoply of HLA Nomenclature and is able to validate, expand and transform among them.
 
 Resources:
 - [Website](https://py-ard.org)
