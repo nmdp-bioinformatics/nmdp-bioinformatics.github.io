@@ -40,12 +40,14 @@ Resources:
 
 ### 4. Search Summary Score
 ![Image](assets/screenshots/search-summary-score.png)
-Search summary score (SSS) represents the next generation of search productivity measures.  The donor score incorporates both Haplogic match predictions and Donor Readiness Score.  It can be calculated for any match category with predictions.  Validation studies so far show large increases in accuracy over existing measures.  A similar score is under development to also assess cord searches.
+Search summary score (SSS) represents the next generation of search productivity measures.  The donor score incorporates both Haplogic match predictions and Donor Readiness Score.  It can be calculated for any match category with predictions.  Validation studies show large increases in accuracy over existing measures.  
 
 
 
 Resources:
-- **Under development**
+- [Manuscript](https://pubmed.ncbi.nlm.nih.gov/41047126/)
+
+---
 
 ## HLA (Mis)matching Tools
 
@@ -90,7 +92,7 @@ A tool that enables the calculation of theoretical HLA-DQ heterodimers using HLA
 
 
 Resources:
-- *Under development*
+- [Tool](https://dq-dimers.nmdp.org/)
 - [Manuscript](https://pubmed.ncbi.nlm.nih.gov/35271697/)
 
 ---
